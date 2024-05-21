@@ -1,4 +1,4 @@
-const wcButton = document.getElementById('wcButton');
+const wcButton = Document.getElementById('wcButton');
 function showWorkCenters() {
   Document.getElementById('workCenters').style.display = 'grid';
 }
